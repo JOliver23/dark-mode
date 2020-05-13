@@ -6,6 +6,7 @@ import Charts from "./components/Charts";
 import Navbar from "./components/Navbar";
 
 import "./styles.scss";
+//prj initiallized; rewatch lecture
 
 const App = () => {
   const [coinData, setCoinData] = useState([]);
